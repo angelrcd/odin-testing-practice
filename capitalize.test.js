@@ -1,4 +1,3 @@
-/* eslint-disable no-undef */
 const capitalize = require("./capitalize");
 
 test("capitalize happy case", () => {

@@ -1,4 +1,3 @@
-/* eslint-disable no-undef */
 const reverseString = require("./reverseString");
 
 test("reverse happy case", () => {

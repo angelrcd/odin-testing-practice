@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-
 const caesarCipher = require("./caesarCipher");
 
 test("no shift", () => {
